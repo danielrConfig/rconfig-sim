@@ -2,8 +2,6 @@
 
 <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="320" />
 
-# rconfig-sim
-
 **A high-density Cisco IOS SSH simulator for load testing [rConfig](https://www.rconfig.com) at scale.**
 
 Stand up 50,000 fake network devices on a single Linux host. Each one speaks real SSH, serves realistic multi-KB to multi-MB running-configs, and responds exactly like Cisco IOS — enough to exercise rConfig's scheduler, collectors, parser, diff engine, and storage pipeline under production-shaped load.
