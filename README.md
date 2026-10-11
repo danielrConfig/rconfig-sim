@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/images/rconfig_sim_logo_and_icon_with_strapline_white.svg">
-  <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="320" />
-</picture>
+<img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="320" />
 
 # rconfig-sim
 
@@ -1803,10 +1800,7 @@ MIT. See [LICENSE](LICENSE).
 <div align="center">
 
 <a href="https://www.rconfig.com/rconfig-sim">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/rconfig_sim_logo_and_icon_with_strapline_white.svg">
-    <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="160" />
-  </picture>
+  <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="160" />
 </a>
 
 **[rconfig.com/rconfig-sim](https://www.rconfig.com/rconfig-sim)** — project landing page, release notes, and roadmap.
