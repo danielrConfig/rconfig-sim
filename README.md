@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="docs/images/logo.png" alt="rconfig-sim logo" width="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/images/rconfig_sim_logo_and_icon_with_strapline_white.svg">
+  <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="320" />
+</picture>
 
 # rconfig-sim
 
 **A high-density Cisco IOS SSH simulator for load testing [rConfig](https://www.rconfig.com) at scale.**
 
-<img src="docs/images/social-preview.png" alt="rconfig-sim in action: 50,000 Cisco IOS devices · one host · real SSH" />
-
 Stand up 50,000 fake network devices on a single Linux host. Each one speaks real SSH, serves realistic multi-KB to multi-MB running-configs, and responds exactly like Cisco IOS — enough to exercise rConfig's scheduler, collectors, parser, diff engine, and storage pipeline under production-shaped load.
 
 [![CI](https://github.com/rconfig/rconfig-sim/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rconfig/rconfig-sim/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/badge/docs-simdocs.rconfig.com-4f46e5)](https://simdocs.rconfig.com)
-[![Website](https://img.shields.io/badge/website-rconfig.com%2Frconfig--sim-D97757)](https://www.rconfig.com/rconfig-sim)
+[![Docs](https://img.shields.io/badge/docs-simdocs.rconfig.com-8C4220)](https://simdocs.rconfig.com)
+[![Website](https://img.shields.io/badge/website-rconfig.com%2Frconfig--sim-CC7A5C)](https://www.rconfig.com/rconfig-sim)
 [![Go Version](https://img.shields.io/badge/go-1.24%2B-00ADD8?logo=go)](https://go.dev/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)]()
@@ -1802,7 +1803,10 @@ MIT. See [LICENSE](LICENSE).
 <div align="center">
 
 <a href="https://www.rconfig.com/rconfig-sim">
-  <img src="docs/images/logo.png" alt="rconfig-sim" width="72" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/images/rconfig_sim_logo_and_icon_with_strapline_white.svg">
+    <img src="docs/images/rconfig_sim_logo_and_icon_with_strapline_gradient.svg" alt="Sim by rConfig" width="160" />
+  </picture>
 </a>
 
 **[rconfig.com/rconfig-sim](https://www.rconfig.com/rconfig-sim)** — project landing page, release notes, and roadmap.
